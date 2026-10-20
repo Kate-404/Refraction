@@ -15,7 +15,7 @@
   "icon": "assets/${id}/icon.png",
   "environment": "*",
   "entrypoints": {
-    "main": [
+    "client": [
       "kate.makes.refraction.Refraction"
     ]
   },
