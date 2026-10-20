@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "kate.makes.refraction.mixin",
+  "compatibilityLevel": "${java}",
+  "mixins": [
+    "VisibilityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
